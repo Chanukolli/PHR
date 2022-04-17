@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PHR</string>
+    <string name="home">Home</string>
+    <string name="history" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="list">
+        <item>Coroana</item>
+        <item>Cancer</item>
+        <item>BMI</item>
+        <item>Aids</item>
+        <item>Diabates</item>
+    </string-array>
+</resources>
